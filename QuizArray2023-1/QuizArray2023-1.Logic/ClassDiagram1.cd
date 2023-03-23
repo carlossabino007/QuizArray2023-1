@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QuizArray2023_1.Logic.OneDimension">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAAAAAACAAAEAAAAAAAAAAAAAAAIAAAAABIAAAA=</HashCode>
+      <FileName>OneDimension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuizArray2023_1.Logic.TwoDimension">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAABAAAAACAAAAAAAABIAAAA=</HashCode>
+      <FileName>TwoDimension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
